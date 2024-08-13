@@ -1,7 +1,11 @@
 make sure modify database name in .env file accordingly
 
 php artisan migrate
-![one](https://github.com/user-attachments/assets/7500343a-e069-48aa-9fbc-f969a2dbd33c)
+
+
+
+![image](https://github.com/user-attachments/assets/168f1801-ed5b-4bb7-b594-60eaa90783f4)
+
 
 
 
