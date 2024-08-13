@@ -4,9 +4,10 @@ php artisan migrate
 
 
 
-![image](https://github.com/user-attachments/assets/168f1801-ed5b-4bb7-b594-60eaa90783f4)
+<imgs src="![image](https://github.com/user-attachments/assets/223d48fe-589d-49ff-bb03-1d1db7f167b5)
+">
 
 
 
-
-![two](https://github.com/user-attachments/assets/57f8164d-c886-45cb-90a5-016a75ffe25d)
+<img src="![one](https://github.com/user-attachments/assets/e1d99dd4-0692-433f-b806-a0eafd25cdf7)
+">
